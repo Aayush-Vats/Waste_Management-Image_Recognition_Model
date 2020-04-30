@@ -4,16 +4,21 @@ Waste segregation process leads to recycling of waste, energy generation out of 
 #Libraries required -
 
 Tensorflow-cpu/gpu
+
 Open-Cv
 
 #Steps to run
 
 Clone the repository to a directory
-For personal training run the "tr.py" file
+
+For personal training run the "tn.py" file
+
 For using the fully trained model for direct prediction run "prediction.py" file
 
 #For Connection to Raspberry Pi-
 
 Transfer the model to Raspberry Pi
+
 Install tensorflow and replace opencv with picamera
+
 Use the prediction to rotate the servo motor in desired direction using "servo.py" file
