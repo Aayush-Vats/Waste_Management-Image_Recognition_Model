@@ -22,3 +22,6 @@ Transfer the model to Raspberry Pi
 Install tensorflow and replace opencv with picamera
 
 Use the prediction to rotate the servo motor in desired direction using "servo.py" file
+
+
+hacktoberfest
